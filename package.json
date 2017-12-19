@@ -1,31 +1,17 @@
 {
-  "name": "shower",
-  "description": "Shower HTML presentation engine",
-  "version": "2.3.0",
+  "name": "git_presentation",
+  "description": "Presentation for designers about git",
+  "version": "1.0.0",
   "author": {
-    "name": "Vadim Makeev",
-    "url": "http://pepelsbey.net/"
+    "name": "Aleksandr Kalinin",
+    "url": "https://github.com/lawejr"
   },
   "homepage": "https://github.com/shower/shower",
   "repository": {
     "type": "git",
-    "url": "git://github.com/shower/shower.git"
-  },
-  "bugs": {
-    "url": "http://github.com/shower/shower/issues"
+    "url": "git://github.com/lawejr/git-presentation.git"
   },
   "license": "MIT",
-  "keywords": [
-    "shower",
-    "presentation",
-    "template"
-  ],
-  "files": [
-    "pictures/**",
-    "index.html",
-    "LICENSE.md",
-    "README.md"
-  ],
   "dependencies": {
     "shower-core": "^2.1.0",
     "shower-material": "^1.1.0",
